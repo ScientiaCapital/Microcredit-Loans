@@ -1,6 +1,6 @@
 # Microcredit Loans Analyzer
 
-s://github.com/ScientiaCapital/Microcredit-Loans/blob/main/images/microloansA.jpeg)
+![](s://github.com/ScientiaCapital/Microcredit-Loans/blob/main/images/microloansA.jpeg)
 
 ## Dependencies 
 
