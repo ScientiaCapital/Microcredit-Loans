@@ -22,4 +22,4 @@ _Python 3.7+_
 
 ```python loan_analyzer.py```
 
-__Code in ```loan_analyzer.py``` is based off of content provided by the UC Berkeley FinTech Bootcamp and Scientia Capital does not claim original ownership or scholarship.__
+__Code in ```loan_analyzer.py``` is based on content provided by the UC Berkeley FinTech Bootcamp program and Scientia Capital does not claim original ownership or scholarship.__
